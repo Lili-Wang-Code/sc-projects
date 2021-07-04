@@ -15,5 +15,7 @@ Watch my *[DEMO VIDEO!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISy
   *  animation & game designing
 * [Name Popularity Searching System](https://github.com/Lili-Wang-Code/sc-projects/blob/main/stanCode_Projects/name_searching_system/babygraphics.py)
   *  data structure
+*  [Anagram Generator](https://github.com/Lili-Wang-Code/sc-projects/blob/main/stanCode_Projects/anagram_generator/anagram.py)
+ *  recursive functions 
 * [Boggle Game Solver](https://github.com/Lili-Wang-Code/sc-projects/blob/main/stanCode_Projects/boggle_game_solver/boggle.py) 
   * recursive functions 
